@@ -31,7 +31,7 @@ https://blog.jessfraz.com/post/docker-containers-on-the-desktop/ ))
    # cd /
    # tar xvzf pycharm-community-2020.2.tar.gz
    # su - myuser ## if desired (see above)
-   # pycharm-community-2020.2/bin/pycharm.sh
+   # /pycharm-community-2020.2/bin/pycharm.sh
    ```
    1. Click through the user agreement to configure the GUI.
       and click `Skip remaining and set defaults`
